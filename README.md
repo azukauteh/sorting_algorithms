@@ -55,7 +55,7 @@ This repository contains the solutions to the "0x1B. C - Sorting Algorithms & Bi
 
 ## Credits
 
-The "0x1B. C - Sorting Algorithms & Big O" project is part of ALX_africa software engineeringn curriculum and was designed and implemented by Azuka Uteh.
+The "0x1B. C - Sorting Algorithms & Big O" project is part of ALX_africa software engineering curriculum and was designed and implemented by Azuka Uteh.
 
 ## License
 
