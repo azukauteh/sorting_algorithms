@@ -50,10 +50,9 @@ else
 *tail = tmp;
 tmp->next = (*shaker)->next;
 (*shaker)->prev = tmp->prev;
-	
 if (tmp->prev != NULL)
 tmp->prev->next = *shaker;
-	
+
 else
 *list = *shaker;
 (*shaker)->next = tmp;
