@@ -1,6 +1,5 @@
 #include "sort.h"
 
-void swap_ints(int *j, int *k);
 void shell_sort(int *array, size_t size);
 void print_array(const int *array, size_t size);
 
